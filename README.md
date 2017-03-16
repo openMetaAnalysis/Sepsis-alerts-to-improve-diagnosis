@@ -6,7 +6,7 @@ A living systematic review
 
 No benefit on mortality may be due to many factors including unknown change in fluid adminstration, variable definitions of successful compliance with process measures.
 
-The burden of false positive alerts is not reported, but presumably is greatest for alerts that fire based on vital signs and without human oversight. The study of Hayden (citation below) is unique in requiring human approval prior to triggering a response to the alert. An alternative strategy is improved automated data analytics as explored by Manaktala (citation below).
+The burden of false positive alerts is not reported, but presumably is greatest for alerts that fire based on vital signs and without human oversight. The study of Hayden (citation below) is unique in requiring a clinician to approve an alert before the system responds to the alert. Alternative strategies are to improve the specificity of alert (presumably at the expense of sensitivity (as done by Rosenqvist - citation below) or to improve automated data analytics as explored by Manaktala (citation below).
 
 This review updates the previously published review.(1)
 
