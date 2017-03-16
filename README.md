@@ -2,7 +2,11 @@ Sepsis alerts to improve diagnosis
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 41%. This review updates the previously published review.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective at improving the process of care that have been reported (fluid administration has not been reported). Heterogeneity of results as measured by I2 was '[moderate to substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 41%. 
+
+No benefit on mortality may be due to many factors including unknown change in fluid adminstration, variable definitions of successful compliance with process measures.
+
+This review updates the previously published review.(1)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
