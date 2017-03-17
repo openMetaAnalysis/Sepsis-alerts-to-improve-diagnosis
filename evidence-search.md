@@ -11,6 +11,7 @@ Under developoment
 alert\* AND sepsis
 * Retrieves all 5 articles in hand (100% sensitivity)
 * 639 articles on 3/16/2017 (search results reviewed x/x/2017; x additional studies found)
+
 alert\* AND sepsis using single term QI filter (‘exp health services administration’) developed by Hedges Team (PMID [20671080](https://pubmed.gov/20671080))
 * Retrieves 3 of 5 articles in hand (60% sensitivity)
 * 107 articles on 3/16/2017 (search results reviewed x/x/2017; x additional studies found)
