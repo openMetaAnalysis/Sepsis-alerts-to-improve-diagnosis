@@ -12,15 +12,19 @@ VAR = SD ^ 2
 
 dataframe <- read.table(textConnection('
   Study,      Year, PMID, Design,             OR,   CI.l, CI.u, Outcome,                 Criteria,                      Action,                         style
-  "Berger",   2010, 23616849, "Before-after", 2.64, 2.17, 3.22, "Lactate level obtained", ">2 SIRS",                     "EHR popup urges lactate level",        "normal"
-  "Berger",   2010, 23616849, "Before-after", 0.9,  0.60, 1.35, "Mortality", ">2 SIRS",                                  "EHR popup urges lactate level",        "normal"
-  "Nelson",   2011, 21227543, "Before-after", 1.7,  0.9,  3.2,  "Lactate level obtained", ">2 SIRS and SBP <90 mmHg x2", "Caregivers paged; recs placed in EHR", "normal"
-  "Nelson",   2011, 21227543, "Before-after", 2.9,  1.1,  7.7,  "Blood culture obtained", ">2 SIRS and SBP <90 mmHg x2", "Caregivers paged; recs placed in EHR", "normal"
-  "Narayanan",2016, 26573784, "Before-after", 3.47, 1.92, 6.26, "Antibiotics",            ">2 SIRS; second alert if severe criteria", "SSC 3 hr bundle if severe", "normal"
-  "Narayanan",2016, 26573784, "Before-after", 0.64, 0.26, 1.57, "Mortality",              ">2 SIRS; second alert if severe criteria", "SSC 3 hr bundle if severe", "normal"
-  "Hayden",   2016, 26386734, "Before-after", 1.58, 0.70, 3.58, "Mortality",              ">2 SIRS + MD ok; second alert if SBP < 90 + MD ok", "Multifactorial", "normal"
-  "Hayden",   2016, 26386734, "Before-after", 6.3557, 3.8886, 10.3881, "Antibiotics",            ">2 SIRS + MD ok; second alert if SBP < 90 + MD ok", "Multifactorial", "normal"
-  "Hayden",   2016, 26386734, "Before-after", 13.86, 4.72, 40.66, "Lactate level obtained",              ">2 SIRS + MD ok; second alert if SBP < 90 + MD ok", "Multifactorial", "normal"
+  "Berger",   2010, 23616849, "Before-after", 2.64, 2.17, 3.22, "Lactate level obtained",  "SIRS=2 or more",                   "EHR popup urges lactate level",        "normal"
+  "Berger",   2010, 23616849, "Before-after", 0.9,  0.60, 1.35, "Mortality",               "SIRS=2 or more",                   "EHR popup urges lactate level",        "normal"
+  "Nelson",   2011, 21227543, "Before-after", 1.7,  0.9,  3.2,  "Lactate level obtained",  "SIRS=2 or more and SBP <90 mmHg x2", "Caregivers paged; recs placed in EHR", "normal"
+  "Nelson",   2011, 21227543, "Before-after", 2.9,  1.1,  7.7,  "Blood culture obtained",  "SIRS=2 or more and SBP <90 mmHg x2", "Caregivers paged; recs placed in EHR", "normal"
+  "Narayanan",2016, 26573784, "Before-after", 3.47, 1.92, 6.26, "Antibiotics",             "SIRS=2 or more; second alert if severe criteria", "SSC 3 hr bundle if severe", "normal"
+  "Narayanan",2016, 26573784, "Before-after", 0.64, 0.26, 1.57, "Mortality",               "SIRS=2 or more; second alert if severe criteria", "SSC 3 hr bundle if severe", "normal"
+  "Hayden",   2016, 26386734, "Before-after", 1.58, 0.70, 3.58, "Mortality",               "2 or more SIRS + MD ok; second alert if SBP < 90 + MD ok", "Multifactorial", "normal"
+  "Hayden",   2016, 26386734, "Before-after", 6.3557, 3.8886, 10.3881, "Antibiotics",      "SIRS=2 or more + MD ok; second alert if SBP < 90 + MD ok", "Multifactorial", "normal"
+  "Hayden",   2016, 26386734, "Before-after", 13.86, 4.72, 40.66, "Lactate level obtained","SIRS=2 or more + MD ok; second alert if SBP < 90 + MD ok", "Multifactorial", "normal"
+  "Rosenqvist",2017,28276800, "Before-after", 26.64, 11.12, 63.82,"Antibiotics",           "Severe vitals and fever",    "Multifactorial", "normal"
+  "Rosenqvist",2017,28276800, "Before-after", 3, 0.99, 9.10,"Blood culture obtained","Severe vitals and fever",    "Multifactorial", "normal"
+  "Rosenqvist",2017,28276800, "Before-after", 8.43, 3.01, 23.63,"Lactate level obtained","Severe vitals and fever",    "Multifactorial", "normal"
+  "Rosenqvist",2017,28276800, "Before-after", 1.33, 0.54, 3.29,"Mortality","Severe vitals and fever",    "Multifactorial", "normal"
 '), header=TRUE, sep=",",strip.white=TRUE)
 
 colnames(dataframe)[9] <- "Criteria to fire alert" 
