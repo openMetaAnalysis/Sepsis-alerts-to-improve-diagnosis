@@ -1,5 +1,8 @@
 Study,Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
 ,,,,,,,,
+This is an empty file!!,,,,,,,.
+Data is embedded in the R file!!,,,,,,,.
+,,,,,,,,
 ,,,,,,,To make forest plot:,
 ,,,,,,,Click 'Raw' view of this file,
 ,,,,,,,Copy rows of data without column names,
