@@ -52,7 +52,7 @@ goal directed therapy: AME evidence series 002. J Thorac Dis. 2017 Feb;9(2):392-
 2. Nelson JL, Smith BL, Jared JD, Younger JG. Prospective trial of real-time electronic surveillance to expedite early care of severe sepsis. Ann Emerg Med. 2011 May;57(5):500-4. doi: [10.1016/j.annemergmed.2010.12.008](http://dx.doi.org/10.1016/j.annemergmed.2010.12.008).  PMID: [21227543](http://pubmed.gov/21227543)
 
 #### Studies undergoing review
-None
+1. Patocka C, Turner J, Xue X, Segal E. Evaluation of an emergency department triage screening tool for suspected severe sepsis and septic shock. J Healthc Qual. 2014 Jan-Feb;36(1):52-61; quiz 59-61. doi: 10.1111/jhq.12055. PMID: [24372995](http://pubmed.gov/24372995)
 
 #### Studies excluded - selected list of important trial(s)
 1. Manaktala S, Claypool SR. Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality. J Am Med Inform Assoc. 2017 Jan;24(1):88-95. doi: [10.1093/jamia/ocw056](http://dx.doi.org/10.1093/jamia/ocw056). PMID: [27225197](http://pubmed.gov/27225197) *Strong results, but patients were not in the emergency department.*
