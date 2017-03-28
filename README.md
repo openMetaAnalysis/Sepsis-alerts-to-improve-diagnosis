@@ -53,6 +53,7 @@ goal directed therapy: AME evidence series 002. J Thorac Dis. 2017 Feb;9(2):392-
 
 #### Studies undergoing review
 1. Patocka C, Turner J, Xue X, Segal E. Evaluation of an emergency department triage screening tool for suspected severe sepsis and septic shock. J Healthc Qual. 2014 Jan-Feb;36(1):52-61; quiz 59-61. doi: 10.1111/jhq.12055. PMID: [24372995](http://pubmed.gov/24372995)
+2. Bruce HR, Maiden J, Fedullo PF, Kim SC. Impact of nurse-initiated ED sepsis protocol on compliance with sepsis bundles, time to initial antibiotic administration, and in-hospital mortality. J Emerg Nurs. 2015 Mar;41(2):130-7. doi: 10.1016/j.jen.2014.12.007. PMID: [25612516](http://pubmed.gov/25612516)
 
 #### Studies excluded - selected list of important trial(s)
 1. Manaktala S, Claypool SR. Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality. J Am Med Inform Assoc. 2017 Jan;24(1):88-95. doi: [10.1093/jamia/ocw056](http://dx.doi.org/10.1093/jamia/ocw056). PMID: [27225197](http://pubmed.gov/27225197) *Strong results, but patients were not in the emergency department.*
