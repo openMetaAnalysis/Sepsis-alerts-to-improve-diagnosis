@@ -9,11 +9,11 @@ Under developoment
 ## PubMed
 ### Boolean term searching
 alert\* AND sepsis
-* Retrieves all 5 articles in hand (100% sensitivity)
+* Retrieves all [5 articles in hand](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=23616849%2021227543%2026573784%2026386734%2028276800) (100% sensitivity)
 * 639 articles on 3/16/2017 (search results reviewed x/x/2017; x additional studies found)
 
 alert\* AND sepsis using single term QI filter (‘exp health services administration’) developed by Hedges Team (PMID [20671080](https://pubmed.gov/20671080))
-* Retrieves 3 of 5 articles in hand (60% sensitivity)
+* Retrieves 3 of [5 articles in hand](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=23616849%2021227543%2026573784%2026386734%2028276800) (60% sensitivity)
 * 107 articles on 3/16/2017 (search results reviewed x/x/2017; x additional studies found)
 
 ### Vector searching ('Related citations' search)
