@@ -8,6 +8,15 @@ No benefit on mortality may be due to many factors including unknown change in f
 
 The burden of false positive alerts is not reported, but presumably is greatest for alerts that fire based on vital signs and without human oversight. The study of Hayden (citation below) is unique in requiring a clinician to approve an alert before the system responds to the alert. Alternative strategies are to improve the specificity of alert (presumably at the expense of sensitivity (as done by Rosenqvist - citation below) or to improve automated data analytics as explored by Manaktala (citation below).
 
+There are four approaches to triggering an alert (see Table). In addition, two levels of alerts have been studied.
+
+|Criteria  | Examples | Comments |
+|----------|----------|----------|
+|Vital signs with sensitive criteria (such as [SIRS](https://en.wikipedia.org/wiki/Systemic_inflammatory_response_syndrome#Adult_SIRS_Criteria))  |  |Stonger sensitivity, but more false alerts|
+|Vital signs with specific criteria  | Adding hypotension or higher fever. Narayanan (PMID: [26573784](http://pubmed.gov/26573784)), (PMID: [21227543](http://pubmed.gov/21227543)), Rosenqvist (PMID: [28276800](http://pubmed.gov/28276800)) ||Sensitivity drops|
+|Vital signs criteria with human approval for an alert to be triggered | Hayden (PMID: [26386734](http://pubmed.gov/26386734)) |
+|Data mining|Manaktala( PMID: [27225197](http://pubmed.gov/27225197)) |Less practial in the emergence department because time trends for vital signs and results of testing not accessible|
+
 This review updates the previously published review.(1)
 
 [Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
