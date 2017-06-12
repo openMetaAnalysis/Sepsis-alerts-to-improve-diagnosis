@@ -12,7 +12,7 @@ There are four approaches to triggering an alert (see Table). In addition, two l
 
 |Criteria  | Examples | Comments |
 |----------|----------|----------|
-|Vital signs with sensitive criteria (such as [SIRS](https://en.wikipedia.org/wiki/Systemic_inflammatory_response_syndrome#Adult_SIRS_Criteria))  |  |Stonger sensitivity, but more false alerts|
+|Vital signs with sensitive criteria (such as [SIRS](https://en.wikipedia.org/wiki/Systemic_inflammatory_response_syndrome#Adult_SIRS_Criteria))  |  |Stonger sensitivity, but more false alerts. Berger (PMID [23616849](23616849))|
 |Vital signs with specific criteria  | Adding hypotension or higher fever. Narayanan (PMID: [26573784](http://pubmed.gov/26573784)), Nelson (PMID: [21227543](http://pubmed.gov/21227543)), Rosenqvist (PMID: [28276800](http://pubmed.gov/28276800)) ||Sensitivity drops|
 |Vital signs criteria with human approval for an alert to be triggered | Hayden (PMID: [26386734](http://pubmed.gov/26386734)) |
 |Data mining|Manaktala( PMID: [27225197](http://pubmed.gov/27225197)) |Less practial in the emergence department because time trends for vital signs and results of testing not accessible|
