@@ -2,6 +2,8 @@ Sepsis alerts to improve diagnosis
 ============================================
 A living systematic review
 
+Short url: http://openmetaanalysis.github.io/sepsis-alerts
+
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective at improving the process of care that have been reported (fluid administration has not been reported). Heterogeneity of results as measured by I2 was '[moderate to substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 41%. 
 
 No benefit on mortality may be due to many factors including unknown change in fluid adminstration, variable definitions of successful compliance with process measures.
@@ -66,6 +68,7 @@ Surg. 2017 Apr;213(4):617-621. doi: 10.1016/j.amjsurg.2017.01.006. PMID: [281042
 2. Bruce HR, Maiden J, Fedullo PF, Kim SC. Impact of nurse-initiated ED sepsis protocol on compliance with sepsis bundles, time to initial antibiotic administration, and in-hospital mortality. J Emerg Nurs. 2015 Mar;41(2):130-7. doi: 10.1016/j.jen.2014.12.007. PMID: [25612516](http://pubmed.gov/25612516)
 3. Patocka C, Turner J, Xue X, Segal E. Evaluation of an emergency department triage screening tool for suspected severe sepsis and septic shock. J Healthc Qual. 2014 Jan-Feb;36(1):52-61; quiz 59-61. doi: 10.1111/jhq.12055. PMID: [24372995](http://pubmed.gov/24372995)
 4. Francis M, Rich T, Williamson T, Peterson D. Effect of an emergency department sepsis protocol on time to antibiotics in severe sepsis. CJEM. 2010 Jul;12(4):303-10. PMID: [20650022](http://pubmed.gov/20650022)
+
 
 #### Studies excluded - selected list of important trial(s)
 1. Manaktala S, Claypool SR. Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality. J Am Med Inform Assoc. 2017 Jan;24(1):88-95. doi: [10.1093/jamia/ocw056](http://dx.doi.org/10.1093/jamia/ocw056). PMID: [27225197](http://pubmed.gov/27225197) *Strong results, but patients were not in the emergency department.*
