@@ -68,7 +68,7 @@ Surg. 2017 Apr;213(4):617-621. doi: 10.1016/j.amjsurg.2017.01.006. PMID: [281042
 2. Bruce HR, Maiden J, Fedullo PF, Kim SC. Impact of nurse-initiated ED sepsis protocol on compliance with sepsis bundles, time to initial antibiotic administration, and in-hospital mortality. J Emerg Nurs. 2015 Mar;41(2):130-7. doi: 10.1016/j.jen.2014.12.007. PMID: [25612516](http://pubmed.gov/25612516)
 3. Patocka C, Turner J, Xue X, Segal E. Evaluation of an emergency department triage screening tool for suspected severe sepsis and septic shock. J Healthc Qual. 2014 Jan-Feb;36(1):52-61; quiz 59-61. doi: 10.1111/jhq.12055. PMID: [24372995](http://pubmed.gov/24372995)
 4. Francis M, Rich T, Williamson T, Peterson D. Effect of an emergency department sepsis protocol on time to antibiotics in severe sepsis. CJEM. 2010 Jul;12(4):303-10. PMID: [20650022](http://pubmed.gov/20650022)
-
+5. Fernando SM, Reardon PM, Rochwerg B, Shapiro NI, Yealy DM, Seely AJE, Perry JJ, Barnaby DP, Murphy K, Tanuseputro P, Kyeremanteng K. Sepsis-3 Septic Shock Criteria and Associated Mortality Among Infected Hospitalized Patients Assessed by a Rapid Response Team. Chest. 2018 Aug;154(2):309-316. doi: [10.1016/j.chest.2018.05.004](http://dx.doi.org/10.1016/j.chest.2018.05.004). PMID: [29778659](http://pubmed.gov/29778659).
 
 #### Studies excluded - selected list of important trial(s)
 1. Manaktala S, Claypool SR. Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality. J Am Med Inform Assoc. 2017 Jan;24(1):88-95. doi: [10.1093/jamia/ocw056](http://dx.doi.org/10.1093/jamia/ocw056). PMID: [27225197](http://pubmed.gov/27225197) *Strong results, but patients were not in the emergency department.*
