@@ -63,6 +63,7 @@ goal directed therapy: AME evidence series 002. J Thorac Dis. 2017 Feb;9(2):392-
 2. Nelson JL, Smith BL, Jared JD, Younger JG. Prospective trial of real-time electronic surveillance to expedite early care of severe sepsis. Ann Emerg Med. 2011 May;57(5):500-4. doi: [10.1016/j.annemergmed.2010.12.008](http://dx.doi.org/10.1016/j.annemergmed.2010.12.008).  PMID: [21227543](http://pubmed.gov/21227543)
 
 #### Studies undergoing review
+1. Li L, Rathnayake K, Green M, Fullick M, Shetty A, Walter S, Braithwaite J, Lander H, Westbrook JI. Improving the Performance of Clinical Decision Support for Early Detection of Sepsis: A Retrospective Observational Cohort Study. Stud Health Technol Inform. 2019 Aug 21;264:679-683. doi: 10.3233/SHTI190309. PMID: [31438010](http://pubmed.gov/31438010).
 1. Danner OK, Hendren S, Santiago E, Nye B, Abraham P. Physiologically-based, predictive analytics using the heart-rate-to-Systolic-Ratio significantly improves the timeliness and accuracy of sepsis prediction compared to SIRS. Am J 
 Surg. 2017 Apr;213(4):617-621. doi: 10.1016/j.amjsurg.2017.01.006. PMID: [28104273](http://pubmed.gov/28104273).
 2. Bruce HR, Maiden J, Fedullo PF, Kim SC. Impact of nurse-initiated ED sepsis protocol on compliance with sepsis bundles, time to initial antibiotic administration, and in-hospital mortality. J Emerg Nurs. 2015 Mar;41(2):130-7. doi: 10.1016/j.jen.2014.12.007. PMID: [25612516](http://pubmed.gov/25612516)
